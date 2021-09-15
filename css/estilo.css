@@ -1,0 +1,259 @@
+/* HOME */
+
+.container
+{
+	background-color: #007cb4;
+}
+
+.brand 
+{
+	padding: 25px 0 10px;
+	text-align: center;
+	font-size: 2em;
+	line-height: normal;
+}
+
+.brand > .logo
+{
+	text-align: center;
+}
+
+.slogan-bar 
+{
+	padding: 0 0 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.15em;
+	letter-spacing: 1px;
+	color: #007cb4;
+	font-family: "helvetica";
+}
+
+.menu
+{
+	text-align: center;
+}
+
+.menu ul > li
+{
+	display: inline-block;
+	color: #8b8b8b;
+	margin-right: 20px;
+	text-align: center;
+	font-family: "helvetica";
+}
+
+.menu ul > li > a
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 18px;
+	padding: 12px 25px;
+	line-height: 3em;
+}
+
+.menu ul > li > a:hover
+{
+	color: #007cb4;
+	background: white;
+}
+
+.banner > .banner-img
+{
+	width: 100%;
+	display: block;
+}
+
+.mvv > .mvv-img
+{
+	width: 100%;
+	display: block;
+}
+
+.row > .foot
+{
+	text-align: center;
+	font-family: "helvetica";
+}
+
+.botaoLink 
+{
+	text-align: center;
+}
+
+.botao
+{
+    font-family: helvetica, verdana; 
+	font-size: 12pt;  
+	padding: 10px; 
+	background-color: #007cb4; 
+	color: white; 
+	text-decoration: none; 
+} 
+
+.botao:link, .botao:visited 
+{ 
+	border-top: 1px solid #cccccc; 
+	border-bottom: 2px solid #666666; 
+	border-left: 1px solid #cccccc; 
+	border-right: 2px solid #666666; 
+} 
+
+.botao:hover 
+{ 
+	border-bottom: 1px solid #cccccc; 
+	border-top: 2px solid #666666; 
+	border-right: 1px solid #cccccc; 
+	border-left: 2px solid #666666; 
+} 
+
+/* SERVIÃ‡OS */
+
+.banner > .artex
+{
+	width: 100%;
+	display: block;
+}
+
+.servicos > .servicos
+{
+	width: 100%;
+	display: block;
+}
+
+.row > .foot
+{
+	text-align: center;
+	font-family: "helvetica";
+}
+
+.botaoOrc 
+{
+	text-align: center;
+}
+
+.botaoSer
+{
+    font-family: helvetica, verdana; 
+	font-size: 12pt;  
+	padding: 10px; 
+	background-color: #007cb4; 
+	color: white; 
+	text-decoration: none; 
+} 
+
+.botaoSer:link, .botaoSer:visited 
+{ 
+	border-top: 1px solid #cccccc; 
+	border-bottom: 2px solid #666666; 
+	border-left: 1px solid #cccccc; 
+	border-right: 2px solid #666666; 
+} 
+
+.botaoSer:hover 
+{ 
+	border-bottom: 1px solid #cccccc; 
+	border-top: 2px solid #666666; 
+	border-right: 1px solid #cccccc; 
+	border-left: 2px solid #666666; 
+} 
+
+/* PORTFOLIO */
+
+.banner > .projFeitos
+{
+	width: 100%;
+	display: block;
+}
+
+.projs > .portfolio
+{
+	width: 100%;
+	display: block;
+}
+
+/* CONTATO */
+
+.banner > .Contato
+{
+	width: 100%;
+	display: block;
+}
+
+.form
+{
+	font-size: 16px;
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 0 10px 10px 10px;
+}
+
+.form-control, .texto
+{
+	width: 470px;
+	padding: 10px;
+}
+
+.enviar
+{
+	font-family: helvetica, verdana; 
+	font-size: 10pt;  	
+	background: #007cb4;
+	height: 40px;
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid;
+	color: #ffffff;
+	cursor: pointer;
+	width: 495px;
+}
+
+.texto
+{
+	font-size: 16px;
+	height: 150px;
+	line-height: 20px;
+}
+
+/* ORÇAMENTO */
+
+.banner > .Orcamento
+{
+	width: 100%;
+	display: block;
+}
+
+
+.formorcamento
+{
+	font-size: 16px;
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 0 10px 10px 10px;
+}
+
+.form-orcamento, .form-servico, .form-observacoes
+{
+	width: 470px;
+	padding: 10px;
+}
+
+.form-servico, .form-observacoes
+{
+	height: 120px;
+	line-height: 20px;
+}
+
+.form-enviar
+{
+	font-family: helvetica, verdana; 
+	font-size: 10pt;  	
+	background: #007cb4;
+	height: 40px;
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid;
+	color: #ffffff;
+	cursor: pointer;
+	width: 495px;
+}
